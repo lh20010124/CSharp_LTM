@@ -1,0 +1,15 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\bin\Debug\net6.0\StaticReadOnlyFieldExample.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\bin\Debug\net6.0\StaticReadOnlyFieldExample.deps.json
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\bin\Debug\net6.0\StaticReadOnlyFieldExample.runtimeconfig.json
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\bin\Debug\net6.0\StaticReadOnlyFieldExample.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\bin\Debug\net6.0\StaticReadOnlyFieldExample.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.AssemblyInfoInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.AssemblyInfo.cs
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.sourcelink.json
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\refint\StaticReadOnlyFieldExample.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\StaticReadOnlyFieldExample.genruntimeconfig.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#017-字段、属性、索引器、常量\StaticReadOnlyFieldExample\StaticReadOnlyFieldExample\obj\Debug\net6.0\ref\StaticReadOnlyFieldExample.dll

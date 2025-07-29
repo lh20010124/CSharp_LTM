@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#017-\u5B57\u6BB5\u3001\u5C5E\u6027\u3001\u7D22\u5F15\u5668\u3001\u5E38\u91CF\\StaticReadOnlyFieldExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1C705A-187E-4880-A48B-AE8FC9EFD6FE}|StaticReadOnlyFieldExample\\StaticReadOnlyFieldExample.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#017-\u5B57\u6BB5\u3001\u5C5E\u6027\u3001\u7D22\u5F15\u5668\u3001\u5E38\u91CF\\staticreadonlyfieldexample\\staticreadonlyfieldexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C705A-187E-4880-A48B-AE8FC9EFD6FE}|StaticReadOnlyFieldExample\\StaticReadOnlyFieldExample.csproj|solutionrelative:staticreadonlyfieldexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#017-\u5B57\u6BB5\u3001\u5C5E\u6027\u3001\u7D22\u5F15\u5668\u3001\u5E38\u91CF\\StaticReadOnlyFieldExample\\StaticReadOnlyFieldExample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticReadOnlyFieldExample\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#017-\u5B57\u6BB5\u3001\u5C5E\u6027\u3001\u7D22\u5F15\u5668\u3001\u5E38\u91CF\\StaticReadOnlyFieldExample\\StaticReadOnlyFieldExample\\Program.cs",
+              "RelativeToolTip": "StaticReadOnlyFieldExample\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:12:19.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
