@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#019-\u59D4\u6258\u8BE6\u89E3\\DelegateExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAD274F-67BB-4A13-9AC3-F41F633D740C}|DelegateExample\\DelegateExample.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#019-\u59D4\u6258\u8BE6\u89E3\\delegateexample\\delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAD274F-67BB-4A13-9AC3-F41F633D740C}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#019-\u59D4\u6258\u8BE6\u89E3\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#019-\u59D4\u6258\u8BE6\u89E3\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeToolTip": "DelegateExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:16:19.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
