@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A7CDC3-ED67-48AF-AEC3-80762D951868}|EventExample5\\EventExample5.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\eventexample5\\eventexample5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A7CDC3-ED67-48AF-AEC3-80762D951868}|EventExample5\\EventExample5.csproj|solutionrelative:eventexample5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A7CDC3-ED67-48AF-AEC3-80762D951868}|EventExample5\\EventExample5.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\eventexample5\\eventexample5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38A7CDC3-ED67-48AF-AEC3-80762D951868}|EventExample5\\EventExample5.csproj|solutionrelative:eventexample5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample5\\EventExample5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EventExample5\\MainWindow.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample5\\EventExample5\\MainWindow.xaml",
+              "RelativeToolTip": "EventExample5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-12T03:39:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample5\\EventExample5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventExample5\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample5\\EventExample5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EventExample5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:39:23.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

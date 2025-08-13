@@ -1,0 +1,7 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\bin\Debug\HelloClass.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\bin\Debug\HelloClass.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\bin\Debug\HelloClass.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\obj\Debug\HelloClass.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\obj\Debug\HelloClass.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\obj\Debug\HelloClass.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloClass\HelloClass\obj\Debug\HelloClass.pdb

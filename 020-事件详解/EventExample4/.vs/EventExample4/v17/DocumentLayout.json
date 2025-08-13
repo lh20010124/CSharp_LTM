@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC94CC1-0A10-4EE8-8992-27A42A67723E}|EventExample4\\EventExample4.csproj|D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\eventexample4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC94CC1-0A10-4EE8-8992-27A42A67723E}|EventExample4\\EventExample4.csproj|solutionrelative:eventexample4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC94CC1-0A10-4EE8-8992-27A42A67723E}|EventExample4\\EventExample4.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\eventexample4\\eventexample4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EC94CC1-0A10-4EE8-8992-27A42A67723E}|EventExample4\\EventExample4.csproj|solutionrelative:eventexample4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\EventExample4\\Form1.cs",
+              "RelativeDocumentMoniker": "EventExample4\\Form1.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\EventExample4\\Form1.cs",
+              "RelativeToolTip": "EventExample4\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:04:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\EventExample4\\Form1.cs",
+              "RelativeDocumentMoniker": "EventExample4\\Form1.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#020-\u4E8B\u4EF6\u8BE6\u89E3\\EventExample4\\EventExample4\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EventExample4\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:00:57.032Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

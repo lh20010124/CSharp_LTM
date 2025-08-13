@@ -1,0 +1,15 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\bin\Debug\EventExample5.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\bin\Debug\EventExample5.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\bin\Debug\EventExample5.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\MainWindow.g.cs
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\App.g.cs
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5_MarkupCompile.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5_MarkupCompile.lref
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\MainWindow.baml
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.g.resources
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.Properties.Resources.resources
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.csproj.GenerateResource.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample5\EventExample5\obj\Debug\EventExample5.pdb

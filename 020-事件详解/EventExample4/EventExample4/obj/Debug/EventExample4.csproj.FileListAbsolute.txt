@@ -1,0 +1,10 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\bin\Debug\EventExample4.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\bin\Debug\EventExample4.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\bin\Debug\EventExample4.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.Form1.resources
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.Properties.Resources.resources
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.csproj.GenerateResource.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#020-事件详解\EventExample4\EventExample4\obj\Debug\EventExample4.pdb
