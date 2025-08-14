@@ -1,0 +1,7 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\023-抽象类与开闭原则\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

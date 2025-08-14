@@ -1,0 +1,7 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\obj\Debug\HelloAccess.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\obj\Debug\HelloAccess.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\bin\Debug\HelloAccess.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\bin\Debug\HelloAccess.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\bin\Debug\HelloAccess.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\obj\Debug\HelloAccess.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess\HelloAccess\obj\Debug\HelloAccess.pdb

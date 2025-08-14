@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloAccess1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4068DBFB-74A9-49AC-8978-1B0DFE1BB977}|HelloAccess1\\HelloAccess1.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#021-class\\helloaccess1\\helloaccess1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4068DBFB-74A9-49AC-8978-1B0DFE1BB977}|HelloAccess1\\HelloAccess1.csproj|solutionrelative:helloaccess1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E00C6F-9E52-41CD-804E-CF0DC06042E3}|MyLib\\MyLib.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#021-class\\helloaccess1\\mylib\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E00C6F-9E52-41CD-804E-CF0DC06042E3}|MyLib\\MyLib.csproj|solutionrelative:mylib\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloAccess1\\MyLib\\Classes.cs",
+              "RelativeDocumentMoniker": "MyLib\\Classes.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloAccess1\\MyLib\\Classes.cs",
+              "RelativeToolTip": "MyLib\\Classes.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:05:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloAccess1\\HelloAccess1\\Program.cs",
+              "RelativeDocumentMoniker": "HelloAccess1\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloAccess1\\HelloAccess1\\Program.cs",
+              "RelativeToolTip": "HelloAccess1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:02:29.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

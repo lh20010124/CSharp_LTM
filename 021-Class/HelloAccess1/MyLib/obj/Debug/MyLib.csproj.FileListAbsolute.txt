@@ -1,0 +1,6 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\bin\Debug\MyLib.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\bin\Debug\MyLib.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\obj\Debug\MyLib.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloAccess1\MyLib\obj\Debug\MyLib.pdb

@@ -1,0 +1,7 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\bin\Debug\InterfaceExample3.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\bin\Debug\InterfaceExample3.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\bin\Debug\InterfaceExample3.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\obj\Debug\InterfaceExample3.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\obj\Debug\InterfaceExample3.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\obj\Debug\InterfaceExample3.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\InterfaceExample3\obj\Debug\InterfaceExample3.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\022-\u91CD\u5199\u4E0E\u591A\u6001\\OverrideExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE2BF1C-71F4-45DD-8966-1FC388968716}|OverrideExample\\OverrideExample.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\022-\u91CD\u5199\u4E0E\u591A\u6001\\overrideexample\\overrideexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE2BF1C-71F4-45DD-8966-1FC388968716}|OverrideExample\\OverrideExample.csproj|solutionrelative:overrideexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\022-\u91CD\u5199\u4E0E\u591A\u6001\\OverrideExample\\OverrideExample\\Program.cs",
+              "RelativeDocumentMoniker": "OverrideExample\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\022-\u91CD\u5199\u4E0E\u591A\u6001\\OverrideExample\\OverrideExample\\Program.cs",
+              "RelativeToolTip": "OverrideExample\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:52:22.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

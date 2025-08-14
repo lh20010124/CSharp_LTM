@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\023-\u62BD\u8C61\u7C7B\u4E0E\u5F00\u95ED\u539F\u5219\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9159BCEB-7D91-4C09-B9E7-AD3B876A0276}|ConsoleApp1\\ConsoleApp1.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\023-\u62BD\u8C61\u7C7B\u4E0E\u5F00\u95ED\u539F\u5219\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9159BCEB-7D91-4C09-B9E7-AD3B876A0276}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\023-\u62BD\u8C61\u7C7B\u4E0E\u5F00\u95ED\u539F\u5219\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\023-\u62BD\u8C61\u7C7B\u4E0E\u5F00\u95ED\u539F\u5219\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:41:11.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

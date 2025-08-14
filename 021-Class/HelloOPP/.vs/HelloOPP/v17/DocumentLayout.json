@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloOPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B0E085-99FC-458F-BFE0-16E94B2993F8}|HelloOPP\\HelloOPP.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\#021-class\\helloopp\\helloopp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B0E085-99FC-458F-BFE0-16E94B2993F8}|HelloOPP\\HelloOPP.csproj|solutionrelative:helloopp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloOPP\\HelloOPP\\Program.cs",
+              "RelativeDocumentMoniker": "HelloOPP\\Program.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\#021-Class\\HelloOPP\\HelloOPP\\Program.cs",
+              "RelativeToolTip": "HelloOPP\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T02:35:41.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

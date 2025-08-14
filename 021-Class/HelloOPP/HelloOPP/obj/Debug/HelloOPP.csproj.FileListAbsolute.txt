@@ -1,0 +1,7 @@
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\bin\Debug\HelloOPP.exe.config
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\bin\Debug\HelloOPP.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\bin\Debug\HelloOPP.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\obj\Debug\HelloOPP.csproj.AssemblyReference.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\obj\Debug\HelloOPP.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\obj\Debug\HelloOPP.exe
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\#021-Class\HelloOPP\HelloOPP\obj\Debug\HelloOPP.pdb
