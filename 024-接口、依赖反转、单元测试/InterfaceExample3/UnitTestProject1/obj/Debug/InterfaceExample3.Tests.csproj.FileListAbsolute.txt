@@ -22,3 +22,10 @@ D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反
 D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\obj\Debug\Interfac.C562D4CB.Up2Date
 D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\Castle.Core.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\Moq.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\Castle.Core.xml
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\System\Desktop\StudyPlace\Code\01-CSahrp\01-CSharp_LTM\024-接口、依赖反转、单元测试\InterfaceExample3\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml

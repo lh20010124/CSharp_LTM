@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4E01D016-2B39-4A1D-8FB9-4A29D94173CD}|UnitTestProject1\\InterfaceExample3.Tests.csproj|solutionrelative:unittestproject1\\deskfanstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B06B1689-22D6-4752-90ED-4D88F33B1C78}|InterfaceExample3\\InterfaceExample3.csproj|d:\\system\\desktop\\studyplace\\code\\01-csahrp\\01-csharp_ltm\\024-\u63A5\u53E3\u3001\u4F9D\u8D56\u53CD\u8F6C\u3001\u5355\u5143\u6D4B\u8BD5\\interfaceexample3\\interfaceexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B06B1689-22D6-4752-90ED-4D88F33B1C78}|InterfaceExample3\\InterfaceExample3.csproj|D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\024-\u63A5\u53E3\u3001\u4F9D\u8D56\u53CD\u8F6C\u3001\u5355\u5143\u6D4B\u8BD5\\InterfaceExample3\\interfaceexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B06B1689-22D6-4752-90ED-4D88F33B1C78}|InterfaceExample3\\InterfaceExample3.csproj|solutionrelative:interfaceexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "UnitTestProject1\\DeskFansTests.cs",
               "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\024-\u63A5\u53E3\u3001\u4F9D\u8D56\u53CD\u8F6C\u3001\u5355\u5143\u6D4B\u8BD5\\InterfaceExample3\\UnitTestProject1\\DeskFansTests.cs*",
               "RelativeToolTip": "UnitTestProject1\\DeskFansTests.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAywA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T09:27:36.353Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "InterfaceExample3\\Program.cs",
               "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\01-CSahrp\\01-CSharp_LTM\\024-\u63A5\u53E3\u3001\u4F9D\u8D56\u53CD\u8F6C\u3001\u5355\u5143\u6D4B\u8BD5\\InterfaceExample3\\InterfaceExample3\\Program.cs",
               "RelativeToolTip": "InterfaceExample3\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T09:14:41.092Z",
               "EditorCaption": ""
